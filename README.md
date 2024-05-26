@@ -1,2 +1,3 @@
 # First-demo
-My first repoitory
+My first repository.
+Coder - Radhe
